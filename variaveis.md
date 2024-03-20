@@ -1,8 +1,3 @@
-# Variáveis
+# Tipo Primitivos
 
 
-
-```javascript
-console.log("Olá Mundo")
-
-```
