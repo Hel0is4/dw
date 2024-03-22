@@ -19,5 +19,5 @@ let nulo = null
 console.log(nulo)*/
 
 function mult(1, 1)
-    return 1 * 1
+    return mult a * b
 
