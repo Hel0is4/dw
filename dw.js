@@ -16,8 +16,9 @@ let indef;
 console.log(indef)
 
 let nulo = null
-console.log(nulo)*/
+console.log(nulo)
 
 function mult(1, 1)
-    return mult a * b
+    return mult a * b*/
+    
 
