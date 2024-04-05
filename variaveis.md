@@ -42,7 +42,6 @@ console.log(indef)
 ## Exercícios de Fixação
 
 ## Objeto
-é uma coleção de pares chave-valor, onde cada valor é acessado através de uma chave.
-
+é uma estrutura de dados que permite armazenar múltiplas propriedades e seus valores associados em uma única variável. 
 ## Array
 um array é uma estrutura de dados que permite armazenar múltiplos valores em uma única variável, podendo ser de qualquer tipo, como números, strings, objetos.É possível adicionar, remover e modificar elementos em um array 
