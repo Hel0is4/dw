@@ -38,3 +38,12 @@ representa uma variável que foi declarada, mas não inicializada.
 let indef;
 console.log(indef)
 ~~~
+
+## Exercícios de Fixação
+
+## Objeto
+Um objeto em JavaScript é uma coleção de pares chave-valor, onde cada valor é acessado através de uma chave.
+
+## Array
+um array é uma estrutura de dados que permite armazenar múltiplos valores em uma única variável, podendo ser de qualquer tipo, como números, strings, objetos.
+Você pode acessar os elementos de um array utilizando um índice numérico, onde o primeiro elemento tem índice 0, o segundo índice 1, e assim por diante. 
